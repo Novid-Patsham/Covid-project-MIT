@@ -10,4 +10,4 @@
 ## Website snaps:
 
 #### Main page: 
-<img src="https://github.com/Novid-Patsham/covid-project-MIT/blob/main/website%20snaps/Main%20page%201.png" width="1000" height="1200">
+<img src="https://github.com/Novid-Patsham/covid-project-MIT/blob/main/website%20snaps/Main%20page%201.png" width="750" height="1000">
