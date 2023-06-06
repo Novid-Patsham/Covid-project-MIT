@@ -5,7 +5,7 @@
 ### How to run :
 
 1) Fork the repo and download the files
-2) Go to the downloaded directory and run 'app.py' 
+2) Go to the downloaded directory and run 'app.py' on command line using the code: 'python app.py'
 
 ## Website snaps:
 
